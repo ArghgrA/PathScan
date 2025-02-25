@@ -43,7 +43,7 @@ This extension is designed for developers, pentesters, and anyone who needs to c
 4. Once loaded, the extension icon will appear in the browser toolbar.
 
 5. **Configure the proxy**:
-   I recommend using this proxy: [Proxy](https://github.com/Rob--W/cors-anywhere).\
+   I recommend using this [Proxy](https://github.com/Rob--W/cors-anywhere).\
    Instead if you want to use your own proxy you have to go and change the value of the proxyUrl variable
    - Open the `path.js` file or the main configuration file.
    - Find the `proxyUrl` variable and replace the address with your local proxy.
