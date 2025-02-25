@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "PathScan",
+  "version": "1.0",
+  "description": "",
+  "action": {
+    "default_popup": "popup/index.html",
+    "default_icon": "images/icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
