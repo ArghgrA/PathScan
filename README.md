@@ -30,7 +30,7 @@ This extension is designed for developers, pentesters, and anyone who needs to c
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/PathScan.git
+    git clone https://github.com/ArghgrA/PathScan
     ```
 
 2. Go to the extensions page in your browser and enable developer mode:
