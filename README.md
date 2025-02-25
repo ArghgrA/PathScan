@@ -42,7 +42,9 @@ This extension is designed for developers, pentesters, and anyone who needs to c
 
 4. Once loaded, the extension icon will appear in the browser toolbar.
 
-5. **Configure the proxy**: Modify the value of the `proxyUrl` variable in the extension's code to configure your local proxy.
+5. **Configure the proxy**:
+   I recommend using this proxy: [Proxy](https://github.com/Rob--W/cors-anywhere)
+   Modify the value of the `proxyUrl` variable in the extension's code to configure your local proxy.
    - Open the `path.js` file or the main configuration file.
    - Find the `proxyUrl` variable and replace the address with your local proxy.
 
